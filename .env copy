@@ -1,0 +1,6 @@
+PORT=2727
+
+HOST=[your_hostname]
+USER=[your_username]
+PASS=[your_password]
+DB=[your_db_name]
