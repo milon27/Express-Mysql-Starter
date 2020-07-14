@@ -7,9 +7,9 @@ its a starter api service .Its using mysql database , express js and node js.
 
 ## end points
 
-### 1: Get all the divisions name
-### 2: Get all the sub-divisions name of any division
-### 3: Add new sub-division for any division
+### 1: db operation (create databse, create table)
+#### 1.1: op: create db method: GET url: http://localhost:2727/api/db/createdb
+#### 1.2: op: create table method: GET url: http://localhost:2727/api/db/table/[your table name]
 
 
 ## how to use
